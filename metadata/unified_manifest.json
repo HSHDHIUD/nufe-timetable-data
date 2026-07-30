@@ -1,0 +1,362 @@
+{
+  "generatedAt": "2026-07-29T22:36:03",
+  "root": "D:\\auto\\nufe_all_semesters_authoritative_20260729",
+  "links": {
+    "raw_room_json": {
+      "target": "D:\\auto\\nufe_data\\authoritative_rooms_20260729",
+      "status": "created"
+    },
+    "early_semester_audit": {
+      "target": "D:\\auto\\nufe_data\\pre2011_full_probe",
+      "status": "created"
+    },
+    "reconstructed_timetables": {
+      "target": "D:\\auto\\nufe_output\\authoritative_20260729\\reconstructed_timetables",
+      "status": "created"
+    },
+    "class_weekly_html": {
+      "target": "D:\\auto\\nufe_output\\authoritative_20260729\\class_weekly_html",
+      "status": "created"
+    },
+    "site_and_csv": {
+      "target": "D:\\auto\\nufe_output\\authoritative_20260729\\site_and_csv",
+      "status": "created"
+    },
+    "teachers": {
+      "target": "D:\\auto\\nufe_output\\authoritative_20260729\\teachers",
+      "status": "created"
+    }
+  },
+  "semesters": [
+    {
+      "semesterId": "101",
+      "semesterName": "2025-2026-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_101_2025-2026-1",
+      "savedRooms": 224,
+      "activities": 11462,
+      "lessons": 2588,
+      "completed": true,
+      "reusedFrom": "D:\\auto\\classrooms"
+    },
+    {
+      "semesterId": "141",
+      "semesterName": "2025-2026-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_141_2025-2026-2",
+      "savedRooms": 232,
+      "activities": 10195,
+      "lessons": 2768,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "161",
+      "semesterName": "2026-2027-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_161_2026-2027-1",
+      "savedRooms": 226,
+      "activities": 4124,
+      "lessons": 2447,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "21",
+      "semesterName": "2008-2009-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_21_2008-2009-1",
+      "savedRooms": 1,
+      "activities": 1,
+      "lessons": 1,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "26",
+      "semesterName": "2010-2011-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_26_2010-2011-2",
+      "savedRooms": 45,
+      "activities": 78,
+      "lessons": 78,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "27",
+      "semesterName": "2011-2012-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_27_2011-2012-1",
+      "savedRooms": 223,
+      "activities": 2648,
+      "lessons": 2320,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "28",
+      "semesterName": "2011-2012-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_28_2011-2012-2",
+      "savedRooms": 212,
+      "activities": 2385,
+      "lessons": 2173,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "29",
+      "semesterName": "2012-2013-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_29_2012-2013-1",
+      "savedRooms": 229,
+      "activities": 2693,
+      "lessons": 2322,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "30",
+      "semesterName": "2012-2013-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_30_2012-2013-2",
+      "savedRooms": 211,
+      "activities": 2491,
+      "lessons": 2213,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "31",
+      "semesterName": "2013-2014-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_31_2013-2014-1",
+      "savedRooms": 223,
+      "activities": 2714,
+      "lessons": 2340,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "32",
+      "semesterName": "2013-2014-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_32_2013-2014-2",
+      "savedRooms": 209,
+      "activities": 2307,
+      "lessons": 2138,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "33",
+      "semesterName": "2014-2015-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_33_2014-2015-1",
+      "savedRooms": 228,
+      "activities": 2419,
+      "lessons": 2223,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "34",
+      "semesterName": "2014-2015-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_34_2014-2015-2",
+      "savedRooms": 218,
+      "activities": 2405,
+      "lessons": 2233,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "35",
+      "semesterName": "2015-2016-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_35_2015-2016-1",
+      "savedRooms": 229,
+      "activities": 2581,
+      "lessons": 2417,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "36",
+      "semesterName": "2015-2016-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_36_2015-2016-2",
+      "savedRooms": 218,
+      "activities": 2499,
+      "lessons": 2334,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "37",
+      "semesterName": "2016-2017-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_37_2016-2017-1",
+      "savedRooms": 225,
+      "activities": 2809,
+      "lessons": 2629,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "38",
+      "semesterName": "2016-2017-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_38_2016-2017-2",
+      "savedRooms": 224,
+      "activities": 2705,
+      "lessons": 2506,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "39",
+      "semesterName": "2017-2018-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_39_2017-2018-1",
+      "savedRooms": 151,
+      "activities": 2738,
+      "lessons": 2455,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "40",
+      "semesterName": "2017-2018-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_40_2017-2018-2",
+      "savedRooms": 162,
+      "activities": 2567,
+      "lessons": 2348,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "41",
+      "semesterName": "2018-2019-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_41_2018-2019-1",
+      "savedRooms": 168,
+      "activities": 2772,
+      "lessons": 2441,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "42",
+      "semesterName": "2018-2019-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_42_2018-2019-2",
+      "savedRooms": 165,
+      "activities": 2485,
+      "lessons": 2236,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "43",
+      "semesterName": "2019-2020-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_43_2019-2020-1",
+      "savedRooms": 173,
+      "activities": 2670,
+      "lessons": 2409,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "44",
+      "semesterName": "2019-2020-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_44_2019-2020-2",
+      "savedRooms": 167,
+      "activities": 2423,
+      "lessons": 2129,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "45",
+      "semesterName": "2020-2021-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_45_2020-2021-1",
+      "savedRooms": 167,
+      "activities": 2826,
+      "lessons": 2542,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "46",
+      "semesterName": "2020-2021-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_46_2020-2021-2",
+      "savedRooms": 167,
+      "activities": 2665,
+      "lessons": 2404,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "47",
+      "semesterName": "2021-2022-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_47_2021-2022-1",
+      "savedRooms": 170,
+      "activities": 3013,
+      "lessons": 2703,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "48",
+      "semesterName": "2021-2022-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_48_2021-2022-2",
+      "savedRooms": 168,
+      "activities": 2663,
+      "lessons": 2420,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "49",
+      "semesterName": "2022-2023-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_49_2022-2023-1",
+      "savedRooms": 170,
+      "activities": 3132,
+      "lessons": 2791,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "50",
+      "semesterName": "2022-2023-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_50_2022-2023-2",
+      "savedRooms": 177,
+      "activities": 2924,
+      "lessons": 2543,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "51",
+      "semesterName": "2023-2024-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_51_2023-2024-1",
+      "savedRooms": 205,
+      "activities": 9710,
+      "lessons": 2879,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "52",
+      "semesterName": "2023-2024-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_52_2023-2024-2",
+      "savedRooms": 221,
+      "activities": 10076,
+      "lessons": 2691,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "61",
+      "semesterName": "2024-2025-1",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_61_2024-2025-1",
+      "savedRooms": 227,
+      "activities": 11429,
+      "lessons": 2888,
+      "completed": true,
+      "reusedFrom": null
+    },
+    {
+      "semesterId": "81",
+      "semesterName": "2024-2025-2",
+      "roomDir": "D:\\auto\\nufe_data\\authoritative_rooms_20260729\\semester_81_2024-2025-2",
+      "savedRooms": 220,
+      "activities": 11049,
+      "lessons": 2959,
+      "completed": true,
+      "reusedFrom": null
+    }
+  ]
+}

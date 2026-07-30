@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-07-29T22:21:38",
+  "teacherCount": 2372,
+  "teacherCourseRowCount": 111861,
+  "label": "history",
+  "outputs": [
+    "teachers_all_history.csv",
+    "teachers_all_history.json",
+    "teacher_course_history_history.csv",
+    "teacher_course_history_history.json"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-07-29T22:22:41",
+  "semesterCount": 33,
+  "classCourseInstanceCount": 97314,
+  "curriculumSummaryCount": 14658,
+  "recent2yClassCourseInstanceCount": 10769,
+  "recent2yCurriculumSummaryCount": 3806,
+  "recent2yMajorCount": 90,
+  "recent2ySchoolYears": [
+    "2024-2025",
+    "2025-2026"
+  ],
+  "majorCount": 146,
+  "outputDir": "D:\\auto\\nufe_output\\authoritative_20260729\\site_and_csv"
+}
